@@ -7,21 +7,20 @@
 <picture><img src = "https://github.com/Michell2022/Michell2022/blob/main/images/about_me.gif?raw=true" width = 50px></picture> **About me**
 ---
 
-<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" height="250px" width="400px" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-<br>
+**Talking about Personal Stuffs:** </br>
+- A passionate Self-taught Front-end developer.</br>
+- Playing CTF's at spare time.</br>
+- Currently learning Web Development by Self.</br>
+- Personal website [link](https://miandev.netlify.app/#inicio).</br>
+- I’m currently learning everything about Frontend and Backend technologies about Frontend and Backend technologies.</br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://miandev.netlify.app/#inicio)
-- I’m currently learning everything about Frontend and Backend technologies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Michell2022&label=Profile%20views&color=0e75b6&style=flat" alt="Michell2022" /> </p>
 
+</br>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
+---
 
 
 
