@@ -22,10 +22,10 @@
 ## <b> Contacta conmigo..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <!--tech stack icons-->
 <p align="left">
-  <a href="https://www.youtube.com/@miandev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@miandev"  /></a>
-<a href="https://www.tiktok.com/@miandev_" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@miandev_" /></a>
-<a href="https://www.linkedin.com/in/michell-angel-quispe-quispe-437321267/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michell2022"/></a>
-<a href = "mailto:miandev.angel@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@miandev"  /></a>
+  <a href="https://www.youtube.com/@miandev" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@miandev"  /></a>
+<a href="https://www.tiktok.com/@miandev_" target="_blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@miandev_" /></a>
+<a href="https://www.linkedin.com/in/michell-angel-quispe-quispe-437321267/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Michell2022"/></a>
+<a href = "mailto:miandev.angel@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@miandev"  /></a>
 </p>
 
 </br>
