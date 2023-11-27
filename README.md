@@ -9,7 +9,7 @@
 
 <img align="right" height="250px" width="400px" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-- Apasionado Desarrollador Full Satck.</br>
+- Apasionado Desarrollador Full Stack.</br>
 - En mi tiempo libre, disfruto jugando Flexbox Froggy para mejorar mis habilidades.</br>
 - Mi página personal [enlace](https://miandev.netlify.app/#inicio). Es un vistazo a mi trabajo y pasión por el desarrollo.</br>
 - Actualmente, estoy inmerso en el aprendizaje exhaustivo de tecnologías tanto en Frontend como en Backend. Mi enfoque actual está en el stack MEAN.</br>
