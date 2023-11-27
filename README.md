@@ -9,12 +9,11 @@
 
 <img align="right" height="250px" width="400px" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 
-**Talking about Personal Stuffs:** </br>
-- A passionate Self-taught Front-end developer.</br>
-- Playing CTF's at spare time.</br>
-- Currently learning Web Development by Self.</br>
-- Personal website [link](https://miandev.netlify.app/#inicio).</br>
-- I’m currently learning everything about Frontend and Backend technologies about Frontend and Backend technologies.</br>
+- Apasionado Desarrollador Full Satck.</br>
+- En mi tiempo libre, disfruto jugando Flexbox Froggy para mejorar mis habilidades.</br>
+- Mi página personal [enlace](https://miandev.netlify.app/#inicio). Es un vistazo a mi trabajo y pasión por el desarrollo.</br>
+- Actualmente, estoy inmerso en el aprendizaje exhaustivo de tecnologías tanto en Frontend como en Backend. Mi enfoque actual está en el stack MEAN.</br>
+- Disfruto el tiempo en familia, escuchar música y ver películas.</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Michell2022&label=Profile%20views&color=0e75b6&style=flat" alt="Michell2022" /> </p>
 
