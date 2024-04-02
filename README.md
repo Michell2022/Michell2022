@@ -7,7 +7,7 @@
 <picture><img src = "https://github.com/Michell2022/Michell2022/blob/main/images/about_me.gif?raw=true" width = 50px></picture> **Sobre mi**
 ---
 
-<img align="right" height="250px" width="400px" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" height="250px" width="400px" alt="GIF" src="https://github.com/Michell2022/Michell2022/blob/main/images/image-dev.gif?raw=true">
 
 - Apasionado Desarrollador Full Stack.</br>
 - En mi tiempo libre, disfruto jugando Flexbox Froggy para mejorar mis habilidades.</br>
