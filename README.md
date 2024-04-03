@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Michell Angel</b><img src="https://github.com/Michell2022/Michell2022/blob/main/images/hi.gif?raw=true" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/Michell2022/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=2E3DB3&size=25&center=true&vCenter=true&width=600&height=50&lines=Desarrollador+Full+Stack;La+programación+es+mi+pasión"></a>
+  <a href="https://github.com/Michell2022/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=2E3DB3&size=25&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Programming+is+my+passion"></a>
 </p>
 
 <picture><img src = "https://github.com/Michell2022/Michell2022/blob/main/images/about_me.gif?raw=true" width = 50px></picture> **Sobre mi**
